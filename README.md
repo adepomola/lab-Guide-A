@@ -116,7 +116,7 @@ VS Code was installed and configured by changing the settings and theme.
 ## Step 3: Installing Extensions
 The Markdown All in One extension was installed.
 
-![Extensions](05-extensions.png)
+![Extensions](SCREENSHOT%201.jpeg)
 
 ## Step 4: Git Integration
 Git was verified and initialized.
@@ -126,14 +126,14 @@ git --version
 git init
 ```
 
-![Git Version](06-git-version.png)
+![Git Version](SCREENSHOT%202.jpeg)
 
-![Git Init](07-git-init.png)
+![Git Init](SCREENSHOT%203.jpeg)
 
 ## Step 5: Markdown
 A README.md file was created and previewed in VS Code.
 
-![Markdown Preview](09-markdown-preview.png)
+![Markdown Preview](SCREENSHOT%204.jpeg)
 
 ## Conclusion
 The lab was completed successfully. OpenSSH, Git, Visual Studio Code, and Markdown were installed and configured.
