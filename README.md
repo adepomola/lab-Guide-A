@@ -28,7 +28,7 @@ This is a level 3 heading.
 [GitHub](https://github.com)
 
 ### Image
-![Screenshot](screenshot.png)
+![Screenshot](SCREENSHOT%203%20VS%20CODE.png)
 
 ### Inline Code
 Use `git --version` to check the installed version.
