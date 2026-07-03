@@ -104,14 +104,14 @@ This lab demonstrates the installation and configuration of OpenSSH, Visual Stud
 ## Step 1: Installing OpenSSH
 OpenSSH was installed successfully using Chocolatey.
 
-![OpenSSH](02-openssh.png)
+![OpenSSH](SCREENSHOT%202.jpeg)
 
 ## Step 2: Visual Studio Code Configuration
 VS Code was installed and configured by changing the settings and theme.
 
-![VS Code](03-vscode.png)
+![VS Code](SCREENSHOT%203%20VS%20CODE.png)  
 
-![Settings](04-vscode-settings.png)
+![Settings](SCREENSHOT%204.jpeg)
 
 ## Step 3: Installing Extensions
 The Markdown All in One extension was installed.
